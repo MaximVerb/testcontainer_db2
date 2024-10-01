@@ -1,0 +1,4 @@
+#spring:
+#  datasource:
+#    url: "jdbc:tc:db2:11.5.0.0a://localhost:5432/crate"
+#    driver-class-name: com.ibm.db2.jcc.DB2Driver
